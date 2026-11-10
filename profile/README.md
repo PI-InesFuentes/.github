@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Nudo: workshop bookings tied to their materials" width="100%">
+  <img src="./nudo-banner.svg" alt="Nudo: workshop bookings tied to their materials" width="100%">
 </p>
 
 <p align="center">
