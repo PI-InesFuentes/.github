@@ -66,5 +66,5 @@ In first year I built a generic **resource booking system** across several cours
 
 ### 👩‍💻 Author
 
-**Inés Fuentes Martínez**, UX/UI Designer & Front-End Developer
+**Inés Fuentes Martínez**, Full-Stack Developer
 [GitHub](https://github.com/lylyam) · [LinkedIn](https://www.linkedin.com/in/ines-fuentes-martinez/)
